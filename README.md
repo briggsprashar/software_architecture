@@ -382,4 +382,4 @@ This software architecture for Fibrotrack uses **AZ-900 Azure Fundamentals** con
 
 ## References
 
-[^1]: Wolfe, F., Clauw, D. J., Fitzcharles, M. A., et al. (2016). *2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria*. Seminars in Arthritis and Rheumatism, 46(3), 319-329. https://doi.org/10.1016/j.semarthrit.2016.08.012
+1) Wolfe, F., Clauw, D. J., Fitzcharles, M. A., et al. (2016). *2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria*. Seminars in Arthritis and Rheumatism, 46(3), 319-329. https://doi.org/10.1016/j.semarthrit.2016.08.012
