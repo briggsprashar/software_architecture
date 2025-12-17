@@ -4,7 +4,20 @@
 
 Software architecture of a health use-case based app is created. This will be used to create a comprehensive solution architectureand implementation plan later. This is just an overview, and works almost like a template to build on.  
 
-The accompanying `Fibrotrack_Prototype.html` is a html file that is a sample prototype for the app. The prototype is created with the assistance of an online AI tool. 
+The accompanying [Fibrotrack_Prototype](https://github.com/briggsprashar/software_architecture/blob/main/Fibrotrack_Prototype.html) is a html file that is a sample prototype for the app. The prototype is created with the assistance of an online AI tool. 
+
+To preview the prototype, 
+1) go to 
+```
+https://htmlpreview.github.io/
+```
+2) paste the raw url below
+
+```
+https://raw.githubusercontent.com/briggsprashar/software_architecture/refs/heads/main/Fibrotrack_Prototype.html 
+``` 
+
+3) click on `Preview` to render the html as a webpage
 
 ## Solution Architecture & Implementation Plan
 
